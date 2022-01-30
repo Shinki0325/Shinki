@@ -1,6 +1,6 @@
-<img align="right" src="https://s3.bmp.ovh/imgs/2022/01/3c626eb05366bb80.png" style="zoom:1%;" />
+<img align="right" src="https://s3.bmp.ovh/imgs/2022/01/3c626eb05366bb80.png" width = "300" height = "300" />
 
-# About Me
+# Nothing is written
 
 兴趣使然的读书人
 
